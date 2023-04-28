@@ -1,0 +1,2 @@
+# kelowna
+VSCode settings
