@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "telemetry.telemetryLevel": "off",
+    "terminal.integrated.tabs.enabled": false,
+    "svelte.plugin.svelte.note-new-transformation": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "svelte.enable-ts-plugin": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.visible": false,
+    "gitlens.advanced.messages": {
+        "suppressLineUncommittedWarning": true
+    },
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "http.proxySupport": "off"
+}
